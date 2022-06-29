@@ -1,0 +1,28 @@
+.form-container {
+  display: flex;
+}
+
+.input-container {
+  margin: 0 1rem 0 0.1rem;
+}
+
+.input-label {
+  margin-left: -2rem;
+}
+
+.btn-submit {
+  width: 3rem;
+}
+
+.btn-hide-container {
+  width: 4rem;
+}
+
+.btn-hide {
+  border: none;
+  color: white;
+  background-color: grey;
+  width: 4rem;
+  height: 1.2rem;
+  border-radius: 0.2rem;
+}

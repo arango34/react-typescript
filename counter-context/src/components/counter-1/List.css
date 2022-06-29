@@ -1,0 +1,15 @@
+.list-container {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  width: 30rem;
+  margin: 0 auto;
+  padding: 0 0.25rem;
+  height: 4rem;
+}
+
+.list-item-p {
+  margin-right: 1.85rem;
+  font-size: 2rem;
+  font-weight: bold;
+}

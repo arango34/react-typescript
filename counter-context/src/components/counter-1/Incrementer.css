@@ -1,0 +1,18 @@
+.incrementer-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 7rem;
+}
+
+.btn {
+  height: 2.5rem;
+  width: 2.5rem;
+  text-align: center;
+}
+
+.btn-container {
+  display: grid;
+  align-items: center;
+}
